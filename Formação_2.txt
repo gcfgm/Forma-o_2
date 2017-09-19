@@ -1,0 +1,4 @@
+var pessoa = "Gui";
+
+if (pessoa = "presidente")
+	serial.print("Gui é gay");
